@@ -6,7 +6,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "web422-a4": {
+    "web422-a6": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:class": {
@@ -44,7 +44,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/web422-a4",
+            "outputPath": "dist/web422-a6",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
